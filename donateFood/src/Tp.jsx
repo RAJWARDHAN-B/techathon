@@ -3,7 +3,7 @@ import React from 'react'
 const Tp = () => {
   return (
     <div>
-      Vijay and Piyush pornstar banega
+      Vijay and sab pornstar banenge
     </div>
   )
 }
